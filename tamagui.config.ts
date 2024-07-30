@@ -6,6 +6,12 @@ import { themes, tokens } from '@tamagui/themes';
 import { createTamagui, styled, SizableText, H1, YStack, Button as ButtonTamagui } from 'tamagui';
 
 const animations = createAnimations({
+  shake: {
+    damping: 10,
+    mass: 0.4,
+    stiffness: 800,
+    type: 'spring',
+  },
   bouncy: {
     damping: 10,
     mass: 0.9,
