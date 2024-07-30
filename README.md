@@ -2,6 +2,8 @@
 
 This is a multiplayer game built using [Expo](https://expo.dev/). `app/index.tsx` contains the entire game logic.
 
+![ezgif-7-c05d34db37](https://github.com/user-attachments/assets/936ed56d-9f9c-48bd-8b4b-cfd3ce54b120)
+
 ## How to run
 
 1. Clone the repo
